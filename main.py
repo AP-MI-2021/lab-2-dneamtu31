@@ -5,7 +5,6 @@ def test_get_n_choose_k(n,k):
 
 def main():
     # interfata de tip consola aici
-    pass
     print('Am implementat interfata!')
 
 
