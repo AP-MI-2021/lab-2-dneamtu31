@@ -5,7 +5,7 @@ def test_get_n_choose_k(n,k):
 
 def main():
     # interfata de tip consola aici
-    print('Am implementat interfata!')
+    print('Am implementat interfata! blablalba')
 
 
 if __name__ == '__main__':
